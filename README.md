@@ -67,9 +67,9 @@ Se trata de un shooter en primera persona (FPS) en donde debemos disparar a las 
 
  - Giroscopio
 
-## Gif animado de ejecución
+## Video de la ejecución
 
-![](demo.gif)
+https://github.com/user-attachments/assets/af40236b-798c-4abc-8be6-308389057c76
 
 ## Acta de acuerdos del grupo
 
