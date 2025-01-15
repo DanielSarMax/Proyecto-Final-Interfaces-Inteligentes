@@ -91,7 +91,7 @@ Se trata de un shooter en primera persona (FPS) en donde debemos disparar a las 
 
 ## Escenarios del juego
 
-### Nivel inicial
+### Nivel 1
 
 ![](Images/Level0.png)
 
