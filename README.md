@@ -8,6 +8,7 @@
 - [Sensores utilizados](#sensores-utilizados)
 - [Gif animado de ejecución](#gif-animado-de-ejecución)
 - [Acta de acuerdos del grupo](#acta-de-acuerdos-del-grupo)
+- [Checklist de puntos a cumplir](#checklist-de-puntos-a-cumplir)
 
 ## Integrantes del grupo
 
