@@ -89,3 +89,20 @@ Se trata de un shooter en primera persona (FPS) en donde debemos disparar a las 
 - Elegir mecánicas de locomoción adecuadas.
 - Seleccionar géneros de juego adecuados.
 
+## Escenarios del juego
+
+### Nivel inicial (0)
+
+![](Images/Level0.png)
+
+### Nivel 1
+
+![](Images/Level1.png)
+
+### Nivel 2
+
+![](Images/Level2.png)
+
+### Pantalla Final
+
+![](Images/Congrats.png)
